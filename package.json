@@ -1,63 +1,27 @@
 {
-
   "name": "com.lefortsoftware.ttsplugin",
-
   "description": "A very small text to speech plugin for Cordova3 / Ios",
-
   "version": "0.1.0",
-
   "homepage": "https://github.com/traildex/cordova3-ios-tts-plugin",
-
   "repository": {
-
     "type": "git",
-
-    "url": "git+https://github.com/traildex/cordova3-ios-tts-plugin"
-
+    "url": "https://github.com/traildex/cordova3-ios-tts-plugin"
   },
-
   "bugs": {
-
     "url": "https://github.com/steevelefort/cordova3-ios-tts-plugin/issues"
-
   },
-
   "cordova": {
-
     "id": "com.lefortsoftware.ttsplugin",
-
     "platforms": [
-
       "ios"
-
     ]
-
   },
-
-  "keywords": [
-
-    "mobile accessibility",
-
-    "ecosystem:cordova",
-
-    "cordova-ios",
-
-  ],
-
   "engines": [
-
     {
-
       "name": "cordova",
-
       "version": ">=3.0.0"
-
     }
-
   ],
-
   "author": "steevelefort",
-
   "license": "Apache 2.0"
-
 }
