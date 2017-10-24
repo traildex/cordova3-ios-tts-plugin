@@ -4,15 +4,15 @@
 
   "description": "A very small text to speech plugin for Cordova3 / Ios",
 
-  "version": “0.1.0”,
+  "version": "0.1.0",
 
-  "homepage": "https://github.com/steevelefort/cordova3-ios-tts-plugin",
+  "homepage": "https://github.com/traildex/cordova3-ios-tts-plugin",
 
   "repository": {
 
     "type": "git",
 
-    "url": "git+https://github.com/steevelefort/cordova3-ios-tts-plugin"
+    "url": "git+https://github.com/traildex/cordova3-ios-tts-plugin"
 
   },
 
